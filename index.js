@@ -11,5 +11,5 @@ const myServer= http.createServer((req,res)=> {  //request and response
 
 });
 
-myServer.listen(8000, () => console.log("Server started!"));  //port number 
+myServer.listen(8000, () => console.log("Server started!"));  //port number explained later
  
