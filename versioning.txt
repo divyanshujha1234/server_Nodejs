@@ -1,0 +1,7 @@
+ if we delibrately want to install a specific version of any dependency the write npm install <dependency>@ verison
+ Given version = x.y.z 
+ z=minor changes
+ y= recommended bug fix (security fix)
+ x= major release - Breaking update  
+ ^ - carrot symbol it will lock the x.
+ ~ - it will fix the y also .
